@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1706542365 source:d:\calender\main.c
+	<windows.h>
+	<commctrl.h>
+
+1706631653 source:d:\task 1\calender\main.c
+	<windows.h>
+	<commctrl.h>
+	<wchar.h>
+	<stdio.h>
+
+1706803873 source:d:\task 2\calender\main.c
+	<windows.h>
+	<commctrl.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706723146 source:d:\voting system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
